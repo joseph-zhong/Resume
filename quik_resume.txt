@@ -1,0 +1,40 @@
+
+
+Xevo (acquired Surround.IO)
+Software Engineering Intern
+- Computer vision and Machine Learning: GStreamer, OpenCV, TensorFlow, Caffe, DeepMask, AWS EC2/Lambda
+- Training/Fine–tuning Haars/LBP Cascades and SqueezeNet/VGG/Inception/ResNet/Spatial Transformer Neural Networks
+- Developed and presented to investors, a “distracted driver” detector developed in one week (Python)
+- Developed and presented four other critical demos towards the company’s acquisition by Xevo in mid–December
+7 2016
+
+
+Harborview Medical Center/UW Medicine
+Developer Research Assistant
+9 2016
+- Product Manager and Full Stack Developer for team of 8 students (Android, iOS, Java/XML, Swift, JSON, MySQL)
+- Facilitating stroke research with MD David Tirschwell, Dr. Richard Anderson, and Glenn Schubert for 25+ stroke research institutions
+- https://github.com/joseph-zhong/UWStrokeResearch_Android
+
+
+
+StudentRND
+CodeDay Regional Manager
+8 2014	10 2016
+- Organized triennial CodeDay Hackathon (http://codeday.org/minneapolis)
+- Connected with dozens of local sponsors and school districts to promote technology education
+- Quintupled registrations and attracted 40% participation from underrepresented groups and women
+
+
+
+HackingEDU
+Android Developer
+9 2015 1 2016
+- Developed the Official Android App for 2500+ attendees (Java/XML)
+- Published a featured technical article on helpful APIs to use during a hackathon (http://blog.josephzhong.me)
+
+
+The Silver labs
+- Tagging online retailer inventory with NGrams API (Python)
+10 2015 1 2016
+
