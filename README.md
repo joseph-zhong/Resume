@@ -1,4 +1,4 @@
-# Resume
+# Joseph Zhong
 
- - [Resume](ZhongResume2017.pdf)
+ - [My Resume](ZhongResume2017.pdf)
 
